@@ -3,6 +3,9 @@
 # para clonar un proyecto:
     Git clone url del proyecto
 
+# para crear una nueva rama
+    git checkout -b nombrerama
+    
 # para ver el status:
     git status
     
