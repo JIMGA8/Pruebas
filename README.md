@@ -14,3 +14,6 @@
 
 # para traer los cambios
     git pull
+    
+# comando traer archivos nuevos
+    git fetch
