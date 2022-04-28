@@ -17,3 +17,6 @@
     
 # comando traer archivos nuevos
     git fetch
+
+# para ver los remotos disponibles
+    git remote -v
