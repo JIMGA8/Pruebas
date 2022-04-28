@@ -11,3 +11,6 @@
 
 # para realizar el commit
     git commit -m "mensajedel commit"
+
+# para traer los cambios
+    git pull
