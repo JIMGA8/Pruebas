@@ -23,3 +23,6 @@
 
 # para ver los remotos disponibles
     git remote -v
+
+# para agregar remotos
+    git remote add nombre url
