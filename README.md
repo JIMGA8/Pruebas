@@ -19,10 +19,13 @@
     git pull
     
 # comando traer archivos nuevos
-    git fetch
+    git fetch nombreRemoto
 
 # para ver los remotos disponibles
     git remote -v
 
 # para agregar remotos
     git remote add nombre url
+
+# para remover remotos
+    git remote remove nombre
