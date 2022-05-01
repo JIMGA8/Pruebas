@@ -27,5 +27,4 @@
 # para agregar remotos
     git remote add nombre url
 
-# para remover remotos
-    git remote remove nombre
+
