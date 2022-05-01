@@ -5,7 +5,7 @@
 
 # para crear una nueva rama
     git checkout -b nombrerama
-    
+
 # para ver el status:
     git status
     
@@ -13,13 +13,19 @@
     git add .
 
 # para realizar el commit
-    git commit -m "mensajedel commit"
+    git commit -m "mensaje del commit"
 
 # para traer los cambios
     git pull
     
 # comando traer archivos nuevos
-    git fetch
+    git fetch nombreRemoto
 
 # para ver los remotos disponibles
     git remote -v
+
+# para agregar remotos
+    git remote add nombre url
+
+# para remover remotos
+    git remote remove nombre
